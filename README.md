@@ -6,7 +6,7 @@
 
 > Explore the elegance of fluid behavior through rigorous theory and computational precision!
 
-This repository is a deep dive into **Computational Fluid Dynamics (CFD)**, where partial differential equations (PDEs) reveal the secrets of fluid flow, and numerical methods bring them to life. Created with passion by Kiara Gholizad for the CFD course at Sharif University of Technology, taught by Dr. Hossein Pakzad, this repo is a tribute to the theoretical foundations of fluid dynamics. If you love derivations, stability analysis, and the beauty of mathematical physics, you're in the right place!
+This repository is a deep dive into **Computational Fluid Dynamics (CFD)**, where partial differential equations (PDEs) reveal the secrets of fluid flow, and numerical methods bring them to life. Created with passion by Kiara Gholizad for the CFD course at Sharif University of Technology, taught by Dr. Hossein Pakzad, this repo is a tribute to the theoretical foundations of fluid dynamics. Each PDF file contains problems meticulously solved in a detailed manner to comprehensively cover every aspect of CFD. If you love derivations, stability analysis, and the beauty of mathematical physics, you're in the right place!
 
 ---
 
